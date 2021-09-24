@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="139" viewBox="0 0 680 139">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 120px;
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Roboto;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        font-size: 60px;
+      }
+    </style>
+  </defs>
+  <text id="PIC" class="cls-1" y="112">PIC</text>
+  <path class="cls-2" d="M199.5,0L200.5,0l-1,139-1-.008Z"/>
+  <text id="IMPORTACIONES_GRUPALES" data-name="IMPORTACIONES GRUPALES" class="cls-3" x="207" y="52">IMPORTACIONES<tspan x="207" dy="72">GRUPALES</tspan></text>
+</svg>
